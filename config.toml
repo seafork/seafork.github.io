@@ -1,4 +1,4 @@
-baseURL = "https://OneFoggyScreen.github.io"
+baseURL = "https://OneFoggyScreen.github.io/"
 languageCode = "en-us"
 title = "OneFoggyScreen's Site"
 theme = "lekh"
