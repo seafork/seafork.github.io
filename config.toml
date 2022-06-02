@@ -1,0 +1,17 @@
+baseURL = "https://OneFoggyScreen.github.io"
+languageCode = "en-us"
+title = "OneFoggyScreen's Site"
+theme = "lekh"
+
+[params]
+Name = "Coral Bytes"
+About = "Error 404: Bio not found"
+PostLimit = 4 # Sets the number of posts to display on the front page
+Email = ""
+Resume = ""
+GoatCounterCode = ""
+
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/OneFoggyScreen"
